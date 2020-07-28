@@ -49,12 +49,12 @@ a:hover{
 }
 /* head part*/
 
-#header{
+header{
 	font-family: Georgia, serif;
 	height: 420px;
 
 }
-.Navigation{
+nav{
 	margin-top: 1px;
 	height: 30px;
 	padding: 0px 30px;
@@ -67,11 +67,11 @@ a:hover{
 
 }
 
-.Navigation a{
+nav a{
   color: black;
 }
 
-.Navigation a:hover{
+nav a:hover{
   color:  #990033;
 }
 
